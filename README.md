@@ -1,2 +1,2 @@
 # AndroidOttoKotlin
-https://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html
+https://tutorialwing.com/otto-event-bus-tutorial-example/
